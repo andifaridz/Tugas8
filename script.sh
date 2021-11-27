@@ -6,4 +6,4 @@ printf "\n"
 
 printf "Berikut ini adalah environment variable: \n"
 echo $PATH
-prinf "\n"
+printf "\n"
